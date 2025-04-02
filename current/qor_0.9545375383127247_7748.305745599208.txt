@@ -1,0 +1,90 @@
+Running Hard and Extreme test cases...
+---------------------------------
+Running Tester: M4_Public_Hard_Toronto
+  QoR: 82681.8
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 2.56205e-18
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Hard_Multi_Toronto
+  QoR: 76389.4
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 2.87972e-17
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Hard_NewYork
+  QoR: 81876.4
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 3.37563e-24
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Hard_Multi_NewYork
+  QoR: 71792.8
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 1.97573e-25
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Hard_London
+  QoR: 96141.1
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 4.53936e-35
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Hard_Multi_London
+  QoR: 90442.4
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 7.92477e-37
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Extreme_Toronto
+  QoR: 127309
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 0.000204642
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Extreme_Multi_Toronto
+  QoR: 138763
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 1.75182e-32
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Extreme_NewYork
+  QoR: 121055
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 3.40249e-10
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Extreme_Multi_NewYork
+  QoR: 146108
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 6.2731e-80
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Extreme_London
+  QoR: 131526
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 2.44834e-16
+  Perturbations: 7748.31
+---------------------------------
+Running Tester: M4_Public_Extreme_Multi_London
+  QoR: 143131
+  Temp before: 100000
+  Cooling rate: 0.954538
+  Temp after: 3.03431e-89
+  Perturbations: 7748.31
+---------------------------------
+Results Summary:
+Total tests run: 12
+Average QoR: 108934.65
+All results saved to qor_results.txt
